@@ -58,9 +58,6 @@ python brainyjim.py
 - `!stats` - see fact statistics
 - `!info` - detailed help
 
-### mentions
-just mention @BrainyJim and say "fact", "hello", "help" etc and it'll respond
-
 ## notes
 
 - the bot automatically loads facts from various APIs if it runs low
